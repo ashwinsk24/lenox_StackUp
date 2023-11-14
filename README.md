@@ -6,9 +6,9 @@ A web-based quiz platform where users can take quizzes, view their scores, and o
 
 ## Team members
 
-1. Ashwin Sivasankaran [https://github.com/ashwinsk24]
-2. Catherine Jose [https://github.com/cath0806]
-3. Chackochan Sebastian [https://github.com/Chackoseb]
+1. [Ashwin Sivasankaran](https://github.com/ashwinsk24)
+2. [Catherine Jose](https://github.com/cath080)
+3. [Chackochan Sebastian](https://github.com/Chackoseb)
 
 ## Team Id
 
@@ -16,7 +16,7 @@ lenox
 
 ## Link to product walkthrough
 
-[link to video]
+[Video](https://www.loom.com/share/796b5bc3cfd741b3a9f7ff350ca56e3e)
 
 ## How it Works ?
 
