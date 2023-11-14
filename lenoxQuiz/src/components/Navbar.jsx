@@ -4,7 +4,7 @@ import "../../src/App.css";
 const Navbar = () => {
   return (
     <div className="navbar">
-      <p className="logo">Logo</p>
+      <p className="logo">Quiz App </p>
       <LogoutBtn />
     </div>
   );
