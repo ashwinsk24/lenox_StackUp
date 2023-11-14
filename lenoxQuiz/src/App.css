@@ -1,0 +1,110 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.logo {
+  font-size: 30px;
+  font-weight: 700;
+}
+.logoutbtn {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+.logoutbtn:hover {
+  background-color: rgb(61, 60, 60);
+}
+
+.heading {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.loginContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 40px;
+}
+button {
+  cursor: pointer;
+  color: white;
+  border: none;
+  padding: 7px;
+}
+
+.input {
+  padding: 7px;
+  margin: 5px;
+  width: 350px;
+}
+.signinbtn {
+  background-color: black;
+}
+
+.googlesigninbtn {
+  background-color: rgb(129, 13, 13);
+}
+.updatebtn {
+  background-color: rgb(9, 38, 116);
+}
+.submitbtn {
+  background-color: rgb(9, 116, 14);
+  width: fit-content;
+}
+
+.submitbtn:hover {
+  background-color: rgb(26, 83, 29);
+}
+
+.uploadbtn {
+  background-color: rgb(0, 0, 0);
+  width: fit-content;
+}
+
+.createContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.formHeading {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.formContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-top: 40px;
+}
+
+.uploadContainer {
+  margin-top: 20px;
+}
+.questionBox {
+  background-color: aliceblue;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 5px;
+}
